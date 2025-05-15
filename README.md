@@ -59,6 +59,19 @@ trackalyzer task stop
 trackalyzer task delete
 ```
 
+## Usage Example
+
+The project has a complete example scenario demonstrating how to use Trackalyzer to track work on a web development project. This interactive example guides you through each step of the workflow.
+
+For detailed information and instructions, check out the [Example Usage Guide](examples/README.md).
+
+
+A screenshot of docx example
+![Example Docx exported file](examples/sample_output/docxExample.png)
+
+Example Time Analysis Chart in png
+![Example Time Analysis Chart](examples/sample_output/Web_App_Development_tasks_chart.png)
+
 ## Features
 
 - Create, list, choose, and delete work collections
@@ -152,4 +165,4 @@ trackalyzer/
 
 ## License
 
-ISC
+MIT
