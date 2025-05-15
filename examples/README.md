@@ -17,9 +17,9 @@ In this example, a developer is working on a small e-commerce web application. T
 - `scenario.sh` - A shell script demonstrating the CLI commands used
 - `sample_output/` - Directory containing example output files:
   - `sample_collection.json` - Sample Collection data
-  - `sample_tasks.json` - Sample Tasks data
   - `WebApp_Development_report.md` - Sample Markdown report
   - `WebApp_Development_report.docx` - Sample DOCX report
+  - `docxExample.png` - a screenshot of a docx
   - `WebApp_Development_tasks_chart.png` - Sample chart image
 
 ## How to Run the Example
