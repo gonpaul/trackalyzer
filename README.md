@@ -10,7 +10,10 @@ git clone https://github.com/yourusername/trackalyzer.git
 cd trackalyzer
 
 # Install dependencies
-npm install
+npm ci 
+
+# Build the project
+npm run build
 
 # Link the CLI globally (optional)
 npm link
