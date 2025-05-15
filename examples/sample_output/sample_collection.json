@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "name": "Web App Development",
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Project setup",
+      "description": "Initialize project structure and dependencies",
+      "pullRequest": null,
+      "hoursSpent": 4.5,
+      "completed": true
+    },
+    {
+      "id": 2,
+      "name": "Database schema",
+      "description": "Create database models and migrations",
+      "pullRequest": "github.com/user/webapp/pull/42",
+      "hoursSpent": 3.2,
+      "completed": true
+    },
+    {
+      "id": 3,
+      "name": "User authentication",
+      "description": "Implement login, registration, and password reset",
+      "pullRequest": "github.com/user/webapp/pull/43",
+      "hoursSpent": 6.8,
+      "completed": true
+    },
+    {
+      "id": 4,
+      "name": "Product catalog",
+      "description": "Implement product listing and search functionality",
+      "pullRequest": "github.com/user/webapp/pull/44",
+      "hoursSpent": 8.5,
+      "completed": true
+    },
+    {
+      "id": 5,
+      "name": "Checkout process",
+      "description": "Implement shopping cart and payment integration",
+      "pullRequest": "github.com/user/webapp/pull/45",
+      "hoursSpent": 7.2,
+      "completed": true
+    }
+  ]
+}
